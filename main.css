@@ -1,0 +1,38 @@
+body{
+    background-color: #edf2f8;
+}
+h1 {
+    text-align: center;
+    border: 3px solid black;
+    margin: 300px 560px 500px 560px;
+
+    font-family: 'Belleza';
+    font-size: 35px;
+}
+p.quote {
+    text-align: left;
+    margin: 0px 200px 0px 200px;
+
+    font-family: 'Bentham';
+    font-style: italic;
+    font-size: 30px;
+}
+p.quote_author {
+    text-align: right;
+    margin: 20px 220px 300px 700px;
+
+    font-family: 'Belleza';
+    font-variant: small-caps;
+    font-size: 20px;
+}
+p.personal{
+    text-align: justify;
+    margin: 50px 100px 300px 500px;
+
+    font-family: 'Bentham';
+    font-size: 20px;
+}
+p.contact{
+    text-align: center;
+    letter-spacing: 15px;
+}
